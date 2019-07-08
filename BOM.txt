@@ -1,0 +1,8 @@
+Partlist exported from /Users/lukeneumann/Documents/EAGLE/projects/OPA2333 break out board/OPA2333 break out board.sch at 5/23/19 1:38 PM
+
+Part Value       Device                    Package Description                                                                                                     MANUFACTURER_PART_NUMBER PROD_ID   VALUE VENDOR           
+C1   0.1uF       0.1UF-0603-25V-(+80/-20%) 0603    0.1µF ceramic capacitors                                                                                                                 CAP-00810 0.1uF                  
+C2   0.1uF       0.1UF-0603-25V-(+80/-20%) 0603    0.1µF ceramic capacitors                                                                                                                 CAP-00810 0.1uF                  
+J1               CONN_05                   1X05    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                                                           
+J2               CONN_05                   1X05    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                                                           
+U1   OPA2333AIDR OPA2333AIDR               D8                                                                                                                      OPA2333AIDR                              Texas Instruments
